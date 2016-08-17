@@ -1,4 +1,4 @@
-# rc-pagination
+# pagination-v7
 ---
 
 React Pagination Component
@@ -35,8 +35,6 @@ npm start
 
 http://localhost:3000/examples/
 
-online example: http://react-component.github.io/pagination/examples/
-
 
 ## Feature
 
@@ -44,16 +42,10 @@ online example: http://react-component.github.io/pagination/examples/
 
 ### Keyboard
 
-
-
-## install
-
-[![rc-pagination](https://nodei.co/npm/rc-pagination.png)](https://npmjs.org/package/rc-pagination)
-
 ## Usage
 
 ```js
-var Pagination = require('rc-pagination');
+var Pagination = require('pagination-v7');
 var React = require('react');
 React.render(<Pagination />, container);
 ```
@@ -91,4 +83,4 @@ http://localhost:3000/node_modules/rc-server/node_modules/node-jscover/lib/front
 
 ## License
 
-rc-pagination is released under the MIT license.
+pagination-v7 is released under the MIT license.

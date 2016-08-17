@@ -1,6 +1,6 @@
 {
   "name": "pagination-v7",
-  "version": "1.5.4",
+  "version": "1.5.6",
   "description": "pagination ui component for react",
   "keywords": [
     "react",
@@ -32,6 +32,7 @@
     "gh-pages": "rc-tools run gh-pages",
     "start": "rc-server",
     "pub": "rc-tools run pub",
+    "publish": "rc-tools run publish",
     "lint": "rc-tools run lint",
     "karma": "rc-tools run karma",
     "saucelabs": "rc-tools run saucelabs",
